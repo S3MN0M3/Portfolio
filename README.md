@@ -1,2 +1,2 @@
 # Portfolio
-Em desenvolvimento !
+Em Django, está em desenvolvimento !
